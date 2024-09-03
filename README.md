@@ -18,7 +18,7 @@ The JavaScript version is available [here](https://github.com/davelongdev/link-r
 
 ## Build Process
 
-I built this app by following the project guidelines and video on [boot.dev](https://boot.dev).
+I built this app by following the project guidelines on [boot.dev](https://boot.dev).
 
 ## Coming Soon
 
